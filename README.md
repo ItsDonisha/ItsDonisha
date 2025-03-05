@@ -1,4 +1,4 @@
-<h1>Hi, I'm Donisha, an <a href="https://www.linkedin.com/in/donisha-gillespie-b2617b1b8/">IT Specialist</a>🪄</h1>
+<h1>Hi, I'm Donisha, an <a href="https://www.linkedin.com/in/donisha-gillespie-b2617b1b8/">IT Specialist</a>✨</h1>
 
 💟A tech-savvy marketer sharing my journey and expertise in IT, branding, and online growth 
 
