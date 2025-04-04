@@ -13,8 +13,8 @@
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/ItsDonisha/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/ItsDonisha
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/ItsDonisha
+  - [osTicket: Post-Installation Configuration](https://github.com/ItsDonisha/post-installation)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/ItsDonisha/ticket-lifecylce)
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs]
   - [Network Security Groups (NSGs) and Inspecting Network Protocols]
@@ -22,6 +22,6 @@
     
 <h2>💟Connect with me:</h2>
 
-[<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="donisha | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/donisha-gillespie-b2617b1b8/
