@@ -19,7 +19,7 @@
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/itsDonisha/active-directory)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https:github.com/itsDonisha/Network-security)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https:github.com/itsDonisha/Network-security)
-  - <h2> 🤍Cool Computer Stuff:</h2>
+  - <h2>Cool Computer Stuff:</h2>
   - [Custom Mouse for windows](https://payhip.com/b/JURb0)
     
 <h2>💟Connect with me:</h2>
