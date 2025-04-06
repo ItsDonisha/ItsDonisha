@@ -17,7 +17,7 @@
   - [osTicket: Ticket Lifecycle Examples](https://github.com/ItsDonisha/ticket-lifecylce)
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/itsDonisha/active-directory)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https:github.com/itsDonisha/Network-security)
+  - [Azure-VM Setup](https://github.com/ItsDonisha/Azure-Vm-Setup)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https:github.com/itsDonisha/Network-security)
 - <b>Computer Guides</b> 
   - [Custom Mouse for windows](https://payhip.com/b/JURb0)
