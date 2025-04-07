@@ -18,7 +18,7 @@
 - <b>Microsoft Azure</b>
   - [Preparing-AD-Infrastructure-in-Azure](https://github.com/ItsDonisha/Preparing-AD-Infrastructure-in-Azure)
   - [Azure-VM Setup](https://github.com/ItsDonisha/Azure-Vm-Setup)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https:github.com/itsDonisha/Network-security)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/ItsDonisha/Azure-Network-Protocols)
 - <b>Computer Guides</b> 
   - [Custom Mouse for windows](https://payhip.com/b/JURb0)
     
