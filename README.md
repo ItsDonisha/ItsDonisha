@@ -14,7 +14,7 @@
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/ItsDonisha/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/ItsDonisha/osTicket---Post-Install-Configuration)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/ItsDonisha/ticket-lifecylce)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/ItsDonisha/Ticket-Lifecycle)
 - <b>Microsoft Azure</b>
   - [Preparing-AD-Infrastructure-in-Azure](https://github.com/ItsDonisha/Preparing-AD-Infrastructure-in-Azure)
   - [Azure-VM Setup](https://github.com/ItsDonisha/Azure-Vm-Setup)
