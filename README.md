@@ -16,7 +16,7 @@
   - [osTicket: Post-Installation Configuration](https://github.com/ItsDonisha/osTicket---Post-Install-Configuration)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/ItsDonisha/ticket-lifecylce)
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/itsDonisha/active-directory)
+  - [Preparing-AD-Infrastructure-in-Azure](https://github.com/ItsDonisha/Preparing-AD-Infrastructure-in-Azure)
   - [Azure-VM Setup](https://github.com/ItsDonisha/Azure-Vm-Setup)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https:github.com/itsDonisha/Network-security)
 - <b>Computer Guides</b> 
